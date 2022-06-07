@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_shopping_cart=self.webpackChunkreact_shopping_cart||[]).push([[548],{2731:function(c,n,t){t.r(n),t.d(n,{default:function(){return u}});var a=t(4850),e=t.p+"static/media/notFoundImg.4114846faa0eadcc5dfc.png",r=t(184),u=function(){return(0,r.jsx)(a.Z,{src:e})}}}]);
+//# sourceMappingURL=548.e051d528.chunk.js.map
